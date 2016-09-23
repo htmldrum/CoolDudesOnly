@@ -1,3 +1,3 @@
 # CoolDudesOnly
-A repository for cool dudes
+A *repository* for cool _dudes_
 'INcom'
